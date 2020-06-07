@@ -1,0 +1,12 @@
+{
+  "petName": "Spot",
+  "simStepIntervalMilliseconds": 250,
+  "simStepsInDay": 24,
+  "petHungerIncreasePerStep": 0.5,
+  "petFatigueIncreasePerStep": 0.5,
+  "petStressIncreasePerStep": 0.5,
+  "petPointsPerFeed": 25,
+  "petPointsPerRest": 25,
+  "petPointsPerPlay": 25,
+  "serviceAddress": "127.0.0.1:6555"
+}
